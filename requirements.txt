@@ -1,0 +1,11 @@
+langchain
+langchain_community
+langchain_text_splitters
+langchain_groq
+langchain_huggingface
+langchain_chroma
+langchain_core
+python-dotenv
+ipykernel
+streamlit
+pypdf
