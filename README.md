@@ -36,7 +36,7 @@ Note: The .env file is not uploaded to GitHub (.gitignore includes it). Users mu
 ```bash
 streamlit run app.py
 ```
-
+Note: 'app.py' only process one PDF, where 'multiple-pdf-app.py' process multiple PDFs.
 ## Project Workflow
 ### 📂 Document Processing
 1️⃣ Upload PDFs
